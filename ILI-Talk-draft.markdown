@@ -1,25 +1,14 @@
-Start with quote from Alan Cooper - library culture gets in the way
-Why? a lot of reasons - lack of technical ability, training, etc. BUT - changing role of librarian is key
-Jared Spool - magical escalator of aquired knowledge
-See tension between simplifying interface and training users
-librarians see their role as training - afraid to give that up
-but there are differentkids of training - no one should have to be taught where to click - save librarian training for larger issues, processes
-make the interface teach people how to use it
-(Clippy) - not like that
-How do we do this? Game designers have been doing this for years
-Miyamoto interview on SMB
-How do we transfer this knowledge to the web
-Mindset: "No matter what they do, they get the mushroom." - how do we make our tools so that no matter what our users do, they get what they want?
-Takes planning, forethought
-Examples
+Your Library Website Stinks and it's Your Fault
+Internet Librarian International, 2012
+London, UK
 
 -------
 
-Library websites stink. They are bloated, overly-complicated messes we force between our members, our collections, and ourselves. Very few library websites were designed to be used by people. 
-
-Maya Angelu: "People will forget what you said, and what you did, but they will never forget how you made them feel"
+Library websites stink. They are bloated, overly-complicated messes we force between our patrons, our collections, and ourselves. Very few library websites were designed to be used by people. 
 
 Slides of twitter complaints about library websites.
+
+Maya Angelu: "People will forget what you said, and what you did, but they will never forget how you made them feel"
 
 But, you're saying, we don't have the budget for a fancy website. We don't have a web designer. We don't have the skills to make things better.
 
@@ -29,9 +18,9 @@ Alan Cooper: "There is little difference technically between a complicated, conf
 
 This is a talk about library websites, but it's really a talk about people. It's a talk about our library members, a talk about us, and what's wrong with the way we're doing things, and how it's hurting our members.
 
-Slide about Hewlett Packard
+In 1939, Dave Packard and Bill Hewlett started a small company making test equipment in a garage in Palo Alto, California. Dave and Bill were electrical engineers who wanted better equipment for other engineers. Hewlett Packard began by making test equipment, that is, tools designed by experts for experts. Their first motto was "Design for the person at the next bench" (c.f. Norman, Donald. (2004). Emotional Design: Why We Love (or Hate) Everyday Things. New York: Basic Books. p.83) And this mindset worked really well for them as long as they were building for other electrical engineers. But once their market changed, and they started targeting consumers, they adapted. They stopped building tools for experts, and started building tools for everyday people.
 
-Slide about original OPACS
+The story of library catalogs is a little bit like this.
 
 We've built a tool for experts, and turned it loose on the unsuspecting public. And now we've got to figure out how to get these novice users up to speed on how to use our complicated tools.
 
