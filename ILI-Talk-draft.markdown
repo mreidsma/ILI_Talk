@@ -4,11 +4,15 @@ London, UK
 
 -------
 
+Most of us want our library websites to look like this: [Slide of unicorn]
+
+But they probably are more like this [Slide of Fat Pony] 
+
 Library websites stink. They are difficult to use and create tension between us and our patrons. 
 
 [Slides of twitter complaints about library websites.]
 
-This is a talk about library websites, but it's really a talk about people. It's a talk about our library patrons, a talk about us, what's wrong with the way we're doing things, and how and who it hurts.
+This is a talk about library websites, but it's really a talk about people. It's a talk about our library patrons, a talk about us, what's wrong with the way we're doing things, how and who it hurts, and what we can do about it.
 
 [25 SEC]
 
@@ -64,7 +68,23 @@ There isn't a simple programming or design trick. The problem goes deeper.
 
 [Slide of Quote] Alan Cooper: "There is little difference technically between a complicated, confusing program and a simple, fun, and powerful product. The difference is one of culture, training, and attitude of the people who make them." (The Inmates are Running the Asylum)
 
-Making your library website better is 90% political. 
+There is no way to fix your library website in 5 easy steps, because a bad library website is just a symptom of a deeper organizational problem. Dealing with bad websites is not a technical problem, it's a political problem.
+
+There are a few things you can do to improve the experience your users are having while your library's stakeholders have their power struggle over the website.
+
+Remember: the web is people all the way down, and so is your organization. The same sort of care we want to build into our websites should be built into your relationships with your coworkers.
+
+Get Everyone to participate - give up some control but offer guidance
+
+Be nice to everybody, even the people that seem to intentionally disagree with everything you say.
+
+Understand the culture - THURSDAY meetings.
+
+Back yourself up with data, data, data - analytics, user research, readability scores.
+
+Test & Iterate, don't redesign
+
+
 
 5:35
 
